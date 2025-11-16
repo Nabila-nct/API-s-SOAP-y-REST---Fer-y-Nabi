@@ -1,0 +1,4 @@
+INFO:root:Usando base de datos local: sqlite:/./dev.db
+INFO:spyne.application:Initializing application {encuestas.soap.retofinal}Application...
+INFO:root:Servidor SOAP iniciado en http://localhost:8000/
+INFO:root:WSDL disponible en: http://localhost:8000/?wsdl

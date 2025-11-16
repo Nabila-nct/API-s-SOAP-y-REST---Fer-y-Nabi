@@ -1,0 +1,4 @@
+spyne
+SQLAlchemy
+pymysql
+lxml
